@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Samuelson81}
+J.~G. Riley, W.~F. Samuelson, Optimal auctions, The American Economic Review
+  71~(3) (1981) 381--392.
+
+\bibitem{Jacques88}
+J.~Cremer, R.~P. McLean, Full extraction of the surplus in bayesian and
+  dominant strategy auctions, Econometrica 56~(6) (1988) 1247--1257.
+
+\bibitem{Myerson81}
+R.~B. Myerson, Optimal auction design, Mathematics Of Operations Research 6~(1)
+  (1981) 58--73.
+
+\bibitem{Jun13}
+J.~Zhang, Revenue maximizing with return policy when buyers have uncertain
+  valuations, International Journal of Industrial Organization 31 (2013)
+  452--461.
+\newblock \href {http://dx.doi.org/10.1016/j.ijindorg.2013.08.001}
+  {\path{doi:10.1016/j.ijindorg.2013.08.001}}.
+
+\bibitem{Jacques09}
+C.~Z. Jacques~Cremer, Yossi~Spiegel, Auctions with costly information
+  acquisition, Economic Theory 38 (2009) 41--72.
+\newblock \href {http://dx.doi.org/10.1007/s00199-007-0301-0}
+  {\path{doi:10.1007/s00199-007-0301-0}}.
+
+\bibitem{Bergemann07}
+M.~P. Dirk~Bergemann, Information structures in optimal auction, Journal of
+  Economic Theory 137 (2007) 580 ¨C 609.
+\newblock \href {http://dx.doi.org/10.1016/j.jet.2007.02.001}
+  {\path{doi:10.1016/j.jet.2007.02.001}}.
+
+\end{thebibliography}
